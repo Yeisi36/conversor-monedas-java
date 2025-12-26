@@ -1,4 +1,4 @@
-# 💱 Conversor de Monedas en Java
+#  Conversor de Monedas en Java
 
 Este proyecto es un **conversor de monedas desarrollado en Java**, que permite convertir valores entre diferentes monedas utilizando tasas de cambio actualizadas obtenidas desde una API externa.
 
@@ -10,7 +10,7 @@ Está diseñado como un proyecto educativo para comprender:
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Conversión entre múltiples monedas (USD, COP, EUR, MXN, ARS, BRL, entre otras)
 - Obtención de tasas de cambio en tiempo real
@@ -21,7 +21,7 @@ Está diseñado como un proyecto educativo para comprender:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Java
 - API de tasas de cambio
@@ -31,7 +31,7 @@ Está diseñado como un proyecto educativo para comprender:
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 ConversorMonedas/
 │
 ├── src/
@@ -43,7 +43,7 @@ ConversorMonedas/
 
 ---
 
-## ▶️ Cómo ejecutar el programa
+##  Cómo ejecutar el programa
 
 1. Clonar el repositorio
 2. Abrir el proyecto en IntelliJ IDEA
@@ -52,12 +52,13 @@ ConversorMonedas/
 
 ---
 
-## 📌 Notas
+##  Notas
 
 Este proyecto fue desarrollado con fines de aprendizaje y práctica en programación Java para Alura.
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 Yeisi
+
